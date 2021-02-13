@@ -189,7 +189,7 @@ body {
   min-height: 100vh;
   padding: 4rem 0rem; }
   .new__header {
-    background-image: url(../../img/background.png);
+    background-image: url(../img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 40vh;
